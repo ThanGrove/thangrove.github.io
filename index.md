@@ -9,15 +9,14 @@ Perhaps I’ll add others soon.
 
 
 <div class="myabout">
-<em>Site Created by</em> 
+<em>Created by</em> 
 <a href="https://uva.theopenscholar.com/nathaniel-grove" target="_blank">Than Grove</a>, 
 a researcher at 
-<a href="https://www.virginia.edu" target="_blank">UVA]</a>.
+<a href="https://www.virginia.edu" target="_blank">UVA</a>.
 </div>
 
 <style>
 .myabout {
-    color: #fff;
     font-size: 80%;
 }
 </style>
