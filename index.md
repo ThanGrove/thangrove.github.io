@@ -1,4 +1,4 @@
-## Welcome to Than Grove’s Github IO Site
+## Welcome to the Grove of Interests
 
 This site is a quick way to highlight some of the simple projects I have been working on:
 
