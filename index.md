@@ -17,6 +17,7 @@ a researcher at [UVA](https://www.virginia.edu).
 .myabout {
     width: 100%;
     color: #fff;
+    font-size: 80%;
     text-align: center;
     background-color: #159957;
     background-image: linear-gradient(120deg, #155799, #159957);
